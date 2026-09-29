@@ -1,5 +1,16 @@
 {
   "tasks": [],
   "goals": [],
-  "expenses": []
+  "expenses": [
+    {
+      "id": "4ebcc8ed-dec8-46ab-9512-2b4e14219487",
+      "itemName": "机器人零件",
+      "amount": 364.86,
+      "purchaseDate": "2026-09-14",
+      "buyer": "王晨瑞",
+      "category": "物料",
+      "status": "pending",
+      "note": ""
+    }
+  ]
 }
