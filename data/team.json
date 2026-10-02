@@ -47,6 +47,16 @@
       "category": "物料",
       "status": "pending",
       "note": ""
+    },
+    {
+      "id": "18866dd3-d1d9-4abd-97e9-dc2dee021ebe",
+      "itemName": "焊接",
+      "amount": 113.24,
+      "purchaseDate": "2026-10-02",
+      "buyer": "卿林鹏",
+      "category": "物料",
+      "status": "pending",
+      "note": ""
     }
   ]
 }
