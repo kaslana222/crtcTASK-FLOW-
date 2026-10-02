@@ -1,9 +1,53 @@
 {
-  "tasks": [],
+  "tasks": [
+    {
+      "id": "crtc-assembly-drawing-task",
+      "title": "组装制图",
+      "description": "",
+      "priority": "normal",
+      "dueAt": "",
+      "owner": "",
+      "owners": [],
+      "goalId": "2b5010a3-77b0-4763-9a1b-256f2c069043",
+      "status": "in_progress",
+      "progress": 10,
+      "createdAt": "2026-10-02T01:38:04.145Z",
+      "assessment": {
+        "category": "basic",
+        "indicator": "外形展示",
+        "alternatives": "",
+        "decision": "",
+        "difficulty": "",
+        "solution": "",
+        "evidence": ""
+      },
+      "progressHistory": [
+        {
+          "id": "1c84b27a-31d8-44fe-906c-16649a135632",
+          "at": "2026-10-02T01:38:04.145Z",
+          "actor": "kaslana222",
+          "status": "todo",
+          "progress": 0,
+          "note": "建立项目目标",
+          "kind": "initial"
+        },
+        {
+          "id": "597f48b5-efb9-4d17-9406-59137f222358",
+          "at": "2026-10-02T01:38:58.058Z",
+          "actor": "kaslana222",
+          "status": "in_progress",
+          "progress": 10,
+          "note": "已完成焊接",
+          "kind": "update"
+        }
+      ],
+      "logs": []
+    }
+  ],
   "goals": [
     {
       "id": "2b5010a3-77b0-4763-9a1b-256f2c069043",
-      "title": "组装制图",
+      "title": "外形展示",
       "description": "",
       "progress": 10,
       "dueDate": "",
@@ -25,6 +69,15 @@
           "kind": "update"
         }
       ]
+    },
+    {
+      "id": "crtc-procurement-goal",
+      "title": "规划/现有采购单",
+      "description": "关联花销记录与采购材料",
+      "progress": 0,
+      "dueDate": "",
+      "owners": [],
+      "progressHistory": []
     }
   ],
   "expenses": [
