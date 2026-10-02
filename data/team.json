@@ -5,7 +5,7 @@
       "id": "2b5010a3-77b0-4763-9a1b-256f2c069043",
       "title": "组装制图",
       "description": "",
-      "progress": 0,
+      "progress": 10,
       "dueDate": "",
       "progressHistory": [
         {
@@ -15,6 +15,14 @@
           "progress": 0,
           "note": "建立项目目标",
           "kind": "initial"
+        },
+        {
+          "id": "40904c85-7d41-4af5-b4cf-88f1cd9587c6",
+          "at": "2026-10-02T01:38:58.058Z",
+          "actor": "kaslana222",
+          "progress": 10,
+          "note": "已完成焊接",
+          "kind": "update"
         }
       ]
     }
