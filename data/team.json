@@ -1,6 +1,24 @@
 {
   "tasks": [],
-  "goals": [],
+  "goals": [
+    {
+      "id": "2b5010a3-77b0-4763-9a1b-256f2c069043",
+      "title": "组装制图",
+      "description": "",
+      "progress": 0,
+      "dueDate": "",
+      "progressHistory": [
+        {
+          "id": "b135f494-9d24-4769-acc0-9b39a30f7b57",
+          "at": "2026-10-02T01:38:04.145Z",
+          "actor": "kaslana222",
+          "progress": 0,
+          "note": "建立项目目标",
+          "kind": "initial"
+        }
+      ]
+    }
+  ],
   "expenses": [
     {
       "id": "4ebcc8ed-dec8-46ab-9512-2b4e14219487",
